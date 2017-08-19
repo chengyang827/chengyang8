@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chengyang827.top/"/>
-  <updated>2017-08-17T07:12:17.130Z</updated>
+  <updated>2017-08-19T06:58:18.286Z</updated>
   <id>http://chengyang827.top/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>利用Hexo+Github Pages搭建自己的博客</title>
+    <link href="http://chengyang827.top/2017/08/18/1/"/>
+    <id>http://chengyang827.top/2017/08/18/1/</id>
+    <published>2017-08-18T08:27:00.000Z</published>
+    <updated>2017-08-19T06:58:18.286Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="为什么要写博客？"><a href="#为什么要写博客？" class="headerlink" title="为什么要写博客？"></a>为什么要写博客？</h1><p><br><br>  博客正式上线，非常高兴。搭建这个博客前前后后大概用了2天时间，当然美化是在一边使用的过程中慢慢完善的。废话不多扯，来说说我为什么要写博客。<br>  <br><br>  可能很多人会认为做程序员的人什么的才需要写博客，真的是这样吗？事实并非如此，任何人都可以写博客，博客有人看当然最好，但是没人看的话就不写了吗？也许有人会这样想。但是我并不这样认为，我觉得写博客最重要的一点是对自己的提高。当然写博客还有很多有点，下面我来一一列举：<br>  <br></p>
+<ul>
+<li>首先，写博客是对自己所学知识的总结。总结自己学过的东西是很重要的，再比如如果你对某个知识点不是特别了解的话，你可以通过写博客并查资料来巩固并深入了解这个知识点的内容，相信这对你来说会非常有意义。<br><br></li>
+<li>其次，写博客也能锻炼你的语言组织表达能力。善于沟通无论在生活中还是工作中都非常重要，表达一件事情和光在脑子里想是完全不同的，如果你的表达能力太差，那么，你就不能说你所想，再比如你学习了一项技术，但是你不能把它表达出来，那说明你还没有完全掌握这项技术。<br><br></li>
+<li>再者，写博客是对你写作能力的提升有极大的帮助。虽然，你开始写时会感觉很难写出好的东西来（就像我现在这样哈哈），但是只要坚持，我相信奇迹都会出现。写作是对思维的一种磨练，你会写作说明你是一个有思想的人。一个人有思想的活着总比浑浑噩噩好，你说是吧？<br><br></li>
+<li>当然，写博客也许会让你出名，前提是你得写出对大家有用的而且非常精悍的文字才行，谁不想出名呢，所以希望有着出名梦的你们（还有我）能坚持写博客。<br><br></li>
+<li>而且，写博客也是面试的加分项。同样条件的两个面试者，一个写博客，一个不写，我相信面试官肯定会选择写博客的那一个，因为善于写博客的人对自己学习的知识都有一个总结，并且很勤快。<br><br><h1 id="为什么要自己搭建博客？"><a href="#为什么要自己搭建博客？" class="headerlink" title="为什么要自己搭建博客？"></a>为什么要自己搭建博客？</h1><br><h2 id="平台博客的局限性"><a href="#平台博客的局限性" class="headerlink" title="平台博客的局限性"></a>平台博客的局限性</h2><br><br>萌生写博客的念头后，我就在网上寻找各种建立博客的方法，有简单的就是直接在CSDN、博客园等平台上就可以写博客，但是听有的人说平台上写博客有太多局限，比如有些文章会被官方删除等等，这就很讨厌，还有一个缺点是广告多，这样体验会很不好，而且对我个人而言几乎一样的布局样式非常单调，显得很low。<br><br><h2 id="Hexo-Github-Pages的优点"><a href="#Hexo-Github-Pages的优点" class="headerlink" title="Hexo+Github Pages的优点"></a>Hexo+Github Pages的优点</h2><br><br>后来在掘金上无意间看见一篇利用github托管博客网站的帖子，于是仔细研究了下整个博客的搭建过程，也不难，于是各种寻找各种教程，虽然过程中踩了不少坑，但还是建成了，所以这一切都是值得的，为了让你们少踩些坑，我会在文章下面的内容中写出详细的搭建过程。不对，好像偏题了，说什么来着，对优点，我觉得最大的优点就是可以免费托管到github上，这可为我们学生党省了好多钱呢。当然，Hexo有很多非常美观的主题，我选择的是Next，下面我会仔细介绍主题的各种配置。<br><br><h1 id="如何搭建自己的博客？"><a href="#如何搭建自己的博客？" class="headerlink" title="如何搭建自己的博客？"></a>如何搭建自己的博客？</h1><h2 id="了解Hexo、Github-Pages"><a href="#了解Hexo、Github-Pages" class="headerlink" title="了解Hexo、Github Pages"></a>了解Hexo、Github Pages</h2><h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><img src="/images/01_Hexo.jpg" alt="Hexo"><br>首先，我们得了解什么是Hexo。这是官方网站贴出的对Hexo的描述，快速、简洁、且高效的博客框架，其实这就是一个基于Nodejs的一个框架结构。通俗点讲的话，Hexo用于生成静态的HTML页面，从而显示给别人看的。而下面的Github Pages就像一台虚拟主机用来存储网站数据，管理网站内容。<br><br><h3 id="Github-Pages"><a href="#Github-Pages" class="headerlink" title="Github Pages"></a>Github Pages</h3><img src="/images/01_GithubPages.png" alt="Github Pages"><br>再说说Github Pages，要了解Github Pages首先你要知道Github，这是一个全球最大的开源社区，上面有很多非常优秀的开源项目，也有很多技术大牛，没事常逛逛还是挺好的这是一群乐于分享的人的舞台。如果你没有Github的账号，可以用自己的邮箱注册一个。Github Pages其实就是由Github托管的项目自动生成的一个网站页面，当然我们用了Hexo框架以后，我们就可以更多样化的美化我们的网站了。<br><br><h2 id="安装必要的软件"><a href="#安装必要的软件" class="headerlink" title="安装必要的软件"></a>安装必要的软件</h2>接下来就有点小激动了，我们正式开始搭建网站。<br><br><br>1.安装Nodejs <a href="https://nodejs.org/en/" target="_blank" rel="external">点这里</a><br>温馨提示：尽量安装最新的稳定版，因为本人安装了旧版的出现了一些莫名其妙的错误，换最新的以后就好了，所以，一定安装最新版。步骤就跟着一步步来默认安装就行了。<br><br><br>2.安装Git客户端 <a href="https://git-scm.com/" target="_blank" rel="external">点这里</a><br>根据你自己的系统选择合适的客户端版本，我电脑是win10的64位系统，所以我安装的是对应的win64的，<strong>如果你的电脑是32位的，那不要装错，要选择32位的版本的</strong>,其次，特别注意：git一定要安装对应的最新版的，不然会出现很多错误，我之所以这么说是因为亲身经历过，所以避免你们浪费太多不必要的时间，还是安装最新的会省去很多麻烦。<br><br><h2 id="配置Hexo环境"><a href="#配置Hexo环境" class="headerlink" title="配置Hexo环境"></a>配置Hexo环境</h2>必要的安装环境搭建完，接下来就可以配置我们的Hexo框架了。<br><br><br>在Git Bash窗口下安装Hexo<ul>
+<li>通过鼠标右键或者开始菜单栏，打开Git Bash</li>
+<li>选择要安装的目录<pre>
+<code>cd d:/</code>
+</pre></li>
+<li>安装Hexo<pre>
+<code>npm install -g hexo-cli</code>
+</pre></li>
+<li>初始化Hexo<pre>
+<code>hexo init blog</code>
+</pre></li>
+<li>进入安装Hexo的目录<pre><code>cd d:/Hexo/blog</code></pre></li>
+<li>安装所有需要的依赖包<pre>
+<code>npm install</code>
+</pre></li>
+<li>开启本地Hexo博客<br><pre><code>hexo server（可以简写成hexo s）</code></pre><br><br><br>到这里本地的Hexo就安装完了。<br>接下来打开浏览器，并输入<em>localhost:4000</em>打开自己的博客，注意：这只是本地的，还没有上传到网上。继续，<br><br><h2 id="关联Github-Pagess"><a href="#关联Github-Pagess" class="headerlink" title="关联Github Pagess"></a>关联Github Pagess</h2><h2 id="解析自己的域名"><a href="#解析自己的域名" class="headerlink" title="解析自己的域名"></a>解析自己的域名</h2><h1 id="如何美化自己的博客？"><a href="#如何美化自己的博客？" class="headerlink" title="如何美化自己的博客？"></a>如何美化自己的博客？</h1></li>
+</ul>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;为什么要写博客？&quot;&gt;&lt;a href=&quot;#为什么要写博客？&quot; class=&quot;headerlink&quot; title=&quot;为什么要写博客？&quot;&gt;&lt;/a&gt;为什么要写博客？&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;  博客正式上线，非常高兴。搭建这个博客前前后后大概用了2天时间，当然美化是
+    
+    </summary>
+    
+      <category term="博客" scheme="http://chengyang827.top/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="博客" scheme="http://chengyang827.top/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一篇文章</title>
