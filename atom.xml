@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chengyang827.top/"/>
-  <updated>2017-08-19T14:29:26.925Z</updated>
+  <updated>2017-08-20T04:17:58.618Z</updated>
   <id>http://chengyang827.top/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://chengyang827.top/2017/08/18/1/"/>
     <id>http://chengyang827.top/2017/08/18/1/</id>
     <published>2017-08-18T08:27:00.000Z</published>
-    <updated>2017-08-19T14:29:26.925Z</updated>
+    <updated>2017-08-20T04:17:58.618Z</updated>
     
     <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=446875807&auto=1&height=66"></iframe></p>
 <h1 id="为什么要写博客？"><a href="#为什么要写博客？" class="headerlink" title="为什么要写博客？"></a>为什么要写博客？</h1><p><br><br>  博客正式上线，非常高兴。搭建这个博客前前后后大概用了2天时间，当然美化是在一边使用的过程中慢慢完善的。废话不多扯，来说说我为什么要写博客。<a id="more"></a><br>  <br><br>  可能很多人会认为做程序员的人什么的才需要写博客，真的是这样吗？事实并非如此，任何人都可以写博客，博客有人看当然最好，但是没人看的话就不写了吗？也许有人会这样想。但是我并不这样认为，我觉得写博客最重要的一点是对自己的提高。当然写博客还有很多有点，下面我来一一列举：<br>  <br></p>
@@ -96,7 +96,7 @@
 </li>
 </ul>
 <p>激动人心的时刻到了！现在已经完成了Hexo+Github的基本部署，你可以打开your_user_name.github.io看看你的博客到底长啥样了。就像这样：<br><img src="/images/01_initial.png" alt="initial"><br><br></p>
-<h2 id="解析自己的域名"><a href="#解析自己的域名" class="headerlink" title="解析自己的域名"></a>解析自己的域名</h2><p>如果你觉得github.io这个域名不好看或者不好听的话，那么你可以去购买一个属于自己的个人域名，价格也不贵，博主买了20大洋三年的。我是去西部数码买的域名，挺不错的。<br>1.进入自己的域名解析页面，添加如下两条记录<br><img src="/images/01_parse.png" alt="parse"><br>2.进入本地目录blog/source目录下新建文件CNAME,然后将自己域名添加进去保存。<br>最后再hexo g &amp; hexo d 部署完成后就可以用新域名来打开我们的博客了，到这里博客的基本配置完工。想要美化自己的博客，继续关注我的下一篇博文。<br><br></p>
+<h2 id="解析自己的域名"><a href="#解析自己的域名" class="headerlink" title="解析自己的域名"></a>解析自己的域名</h2><p>如果你觉得github.io这个域名不好看或者不好听的话，那么你可以去购买一个属于自己的个人域名，价格也不贵，博主买了20大洋三年的。我是去西部数码买的域名，挺不错的。<br>1.进入自己的域名解析页面，添加如下两条记录<br><img src="/images/01_parse.png" alt="parse"><br>2.进入本地目录blog/source目录下新建文件CNAME,然后将自己域名添加进去保存。<br>最后再hexo g &amp; hexo d 部署完成后就可以用新域名来打开我们的博客了，到这里博客的基本配置完工。想要美化自己的博客，继续关注我的下一篇博文。<br><br><br>如果在安装中出现什么问题，可以评论留言，也可以添加微信公众号留言，我会即时回复的。</p>
 ]]></content>
     
     <summary type="html">
