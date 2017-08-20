@@ -2096,7 +2096,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c928ff;
+  background: #44ccd4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3262,7 +3262,7 @@ img:hover {
 }
 #添加背景图片,
 body {
-  background: url("/uploads/background2.png");
+  background: url("/uploads/background3.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
