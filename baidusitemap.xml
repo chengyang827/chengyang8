@@ -3,9 +3,29 @@
 
 
     
+  <url>
+    <loc>http://chengyang827.top/3.html</loc>
+    <lastmod>2017-08-29T09:45:51.508Z</lastmod>
+    <data>
+        <display>
+        <title>《消愁》——毛不易</title>
+        <pubTime>2017-08-20T08:55:15.000Z</pubTime>
+        
+        <tag>毛不易</tag>
+         
+         
+           
+             
+              <breadCrumb title="音乐" url="http://chengyang827.top/categories/%E9%9F%B3%E4%B9%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
-    <loc>http://chengyang827.top/2017/08/22/2/</loc>
+    <loc>http://chengyang827.top/2.html</loc>
     <lastmod>2017-08-22T06:46:50.374Z</lastmod>
     <data>
         <display>
@@ -25,7 +45,7 @@
 
     
   <url>
-    <loc>http://chengyang827.top/2017/08/18/1/</loc>
+    <loc>http://chengyang827.top/1.html</loc>
     <lastmod>2017-08-22T05:31:27.352Z</lastmod>
     <data>
         <display>
@@ -82,19 +102,4 @@
     
     
     
-    
-  <url>
-    <loc>http://chengyang827.top/2017/08/14/hello-world/</loc>
-    <lastmod>2017-08-14T06:51:33.079Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-08-13T20:06:34.401Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>

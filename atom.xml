@@ -17,8 +17,8 @@
   
   <entry>
     <title>Next主题打造炫酷的个性化Hexo博客</title>
-    <link href="http://chengyang827.top/2017/08/22/2/"/>
-    <id>http://chengyang827.top/2017/08/22/2/</id>
+    <link href="http://chengyang827.top/2.html"/>
+    <id>http://chengyang827.top/2.html</id>
     <published>2017-08-22T01:20:37.000Z</published>
     <updated>2017-08-22T06:46:50.374Z</updated>
     
@@ -138,9 +138,34 @@ body {
   </entry>
   
   <entry>
+    <title>《消愁》——毛不易</title>
+    <link href="http://chengyang827.top/3.html"/>
+    <id>http://chengyang827.top/3.html</id>
+    <published>2017-08-20T08:55:15.000Z</published>
+    <updated>2017-08-29T09:45:51.508Z</updated>
+    
+    <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=494108229&auto=0&height=66"></iframe><br>（注明：网易云还没有引进毛不易的歌，所以我从别处下载然后用网易云生成的外链导致歌名没正常显示，还望谅解。）</p>
+<p><blockquote class="blockquote-center"><br><a id="more"></a><br>    当你走进这欢乐场<br>    背上所有的梦与想<br>    各色的脸上各色的妆<br>    没人记得你的摸样<br>    <br><br>    三巡酒过你在角落<br>    固执的唱着苦涩的歌<br>    听他在喧嚣里被淹没<br>    你拿起酒杯对自己说<br>    <br><br>    一杯敬朝阳 一杯敬月光<br>    唤醒我的向往 温柔了寒窗<br>    于是可以不回头的逆风飞翔<br>    不怕心头有雨 眼底有霜<br>    <br><br>    一杯敬故乡 一杯敬远方<br>    守着我的善良 催着我成长<br>    所以南北的路从此不再漫长<br>    灵魂不再无处安放<br>    <br><br>    一杯敬明天 一杯敬过往<br>    支撑我的身体 厚重了肩膀<br>    虽然从不相信所谓山高水长<br>    人生苦短何必念念不忘<br>    <br><br>    一杯敬自由 一杯敬死亡<br>    宽恕我的平凡 驱散了迷惘<br>    好吧天亮之后总是潦草离场<br>    清醒的人最荒唐<br>    好吧天亮之后总是潦草离场<br>    清醒的人最荒唐<br></blockquote><br><br><br>这首歌是在一档综艺节目《明日之子》中火起来的，是由自称巨星的毛不易演唱，也是他的原唱歌曲。这首词写的真的很好。人生就像欢乐场，他用八杯酒敬了一个人的一生，借酒消愁愁更愁。一杯敬朝阳 一杯敬月光，是他敬少年的我们，向往未来，苦读寒窗；一杯敬故乡 一杯敬远方，是他敬青年的我们，故乡的亲人守着我们的善良，而远方正催着我们成长；一杯敬明天 一杯敬过往，已到中年时期支撑身体面对明天，因为过往厚重肩膀；一杯敬自由 一杯敬死亡，老年以至，唯有自由，别无他求。<br><br><br>这八杯酒喝尽了一切的愁苦，有人说，他这么年轻怎么写的出这样的歌词，我觉得可能和他的职业有关吧，他是一名男护士，每天面对的是各种各样的人，所以写出这样的歌词也就可以理解了。<br><br><br>在我看来，他是真正的明日之子。（以上纯属个人观点）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=494108229&amp;auto=0&amp;height=66&quot;&gt;&lt;/iframe&gt;&lt;br&gt;（注明：网易云还没有引进毛不易的歌，所以我从别处下载然后用网易云生成的外链导致歌名没正常显示，还望谅解。）&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="音乐" scheme="http://chengyang827.top/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+    
+      <category term="毛不易" scheme="http://chengyang827.top/tags/%E6%AF%9B%E4%B8%8D%E6%98%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>利用Hexo+Github Pages搭建自己的博客</title>
-    <link href="http://chengyang827.top/2017/08/18/1/"/>
-    <id>http://chengyang827.top/2017/08/18/1/</id>
+    <link href="http://chengyang827.top/1.html"/>
+    <id>http://chengyang827.top/1.html</id>
     <published>2017-08-18T08:27:00.000Z</published>
     <updated>2017-08-22T05:31:27.352Z</updated>
     
@@ -232,33 +257,6 @@ body {
     
     
       <category term="博客 Github" scheme="http://chengyang827.top/tags/%E5%8D%9A%E5%AE%A2-Github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://chengyang827.top/2017/08/14/hello-world/"/>
-    <id>http://chengyang827.top/2017/08/14/hello-world/</id>
-    <published>2017-08-13T20:06:34.401Z</published>
-    <updated>2017-08-14T06:51:33.079Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://chengyang827.top">cy’s blog</a>!<br>This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://chengyang827.top&quot;&gt;cy’s blog&lt;/a&gt;!&lt;br&gt;This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; targe
-    
-    </summary>
-    
     
   </entry>
   
