@@ -3,9 +3,10 @@
 
 
     
+    
   <url>
     <loc>http://chengyang827.top/4.html</loc>
-    <lastmod>2017-08-30T11:16:18.560Z</lastmod>
+    <lastmod>2017-08-30T14:42:04.109Z</lastmod>
     <data>
         <display>
         <title>Fiddler,最好用的Web调试工具</title>
@@ -16,7 +17,27 @@
          
            
              
-              <breadCrumb title="工具" url="http://chengyang827.top/categories/%E5%B7%A5%E5%85%B7/"/>
+              <breadCrumb title="工具教程" url="http://chengyang827.top/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://chengyang827.top/2.html</loc>
+    <lastmod>2017-08-30T14:41:43.309Z</lastmod>
+    <data>
+        <display>
+        <title>Next主题打造炫酷的个性化Hexo博客</title>
+        <pubTime>2017-08-22T01:20:37.000Z</pubTime>
+        
+        <tag>博客 个性化</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="http://chengyang827.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
           
         </display>
     </data>
@@ -25,7 +46,7 @@
     
   <url>
     <loc>http://chengyang827.top/1.html</loc>
-    <lastmod>2017-08-30T10:20:14.544Z</lastmod>
+    <lastmod>2017-08-30T14:41:33.612Z</lastmod>
     <data>
         <display>
         <title>利用Hexo+Github Pages搭建自己的博客</title>
@@ -36,7 +57,7 @@
          
            
              
-              <breadCrumb title="博客" url="http://chengyang827.top/categories/%E5%8D%9A%E5%AE%A2/"/>
+              <breadCrumb title="博客搭建" url="http://chengyang827.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
           
         </display>
     </data>
@@ -57,27 +78,6 @@
            
              
               <breadCrumb title="音乐" url="http://chengyang827.top/categories/%E9%9F%B3%E4%B9%90/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
-    <loc>http://chengyang827.top/2.html</loc>
-    <lastmod>2017-08-22T06:46:50.374Z</lastmod>
-    <data>
-        <display>
-        <title>Next主题打造炫酷的个性化Hexo博客</title>
-        <pubTime>2017-08-22T01:20:37.000Z</pubTime>
-        
-        <tag>博客 个性化</tag>
-         
-         
-           
-             
-              <breadCrumb title="博客" url="http://chengyang827.top/categories/%E5%8D%9A%E5%AE%A2/"/>
           
         </display>
     </data>
