@@ -1976,7 +1976,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #40c166;
+  background: #c4ff40;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3142,13 +3142,14 @@ img:hover {
 }
 #添加背景图片,
 body {
-  background: url("/uploads/background3.png");
+  background: url("/uploads/wood.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
+  background-size: cover;
 }
-footer {
-  color: #eee;
+footer.footer {
+  color: #333;
 }
 .site-meta {
   background: #121621;
