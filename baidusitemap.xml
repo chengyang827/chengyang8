@@ -4,6 +4,46 @@
 
     
   <url>
+    <loc>http://chengyang827.top/3.html</loc>
+    <lastmod>2017-09-17T02:29:26.369Z</lastmod>
+    <data>
+        <display>
+        <title>《消愁》——毛不易</title>
+        <pubTime>2017-08-20T08:55:15.000Z</pubTime>
+        
+        <tag>毛不易</tag>
+         
+         
+           
+             
+              <breadCrumb title="音乐" url="http://chengyang827.top/categories/%E9%9F%B3%E4%B9%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://chengyang827.top/1.html</loc>
+    <lastmod>2017-09-17T02:28:37.454Z</lastmod>
+    <data>
+        <display>
+        <title>利用Hexo+Github Pages搭建自己的博客</title>
+        <pubTime>2017-08-18T08:27:00.000Z</pubTime>
+        
+        <tag>博客 Github</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="http://chengyang827.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://chengyang827.top/5.html</loc>
     <lastmod>2017-09-16T01:22:42.818Z</lastmod>
     <data>
@@ -58,46 +98,6 @@
            
              
               <breadCrumb title="工具教程" url="http://chengyang827.top/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://chengyang827.top/1.html</loc>
-    <lastmod>2017-08-30T14:41:33.612Z</lastmod>
-    <data>
-        <display>
-        <title>利用Hexo+Github Pages搭建自己的博客</title>
-        <pubTime>2017-08-18T08:27:00.000Z</pubTime>
-        
-        <tag>博客 Github</tag>
-         
-         
-           
-             
-              <breadCrumb title="博客搭建" url="http://chengyang827.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://chengyang827.top/3.html</loc>
-    <lastmod>2017-08-30T07:59:50.208Z</lastmod>
-    <data>
-        <display>
-        <title>《消愁》——毛不易</title>
-        <pubTime>2017-08-20T08:55:15.000Z</pubTime>
-        
-        <tag>毛不易</tag>
-         
-         
-           
-             
-              <breadCrumb title="音乐" url="http://chengyang827.top/categories/%E9%9F%B3%E4%B9%90/"/>
           
         </display>
     </data>

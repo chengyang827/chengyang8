@@ -1,3 +1,3 @@
-// build time:Sun Sep 17 2017 09:50:59 GMT+0800 (中国标准时间)
+// build time:Sun Sep 17 2017 12:40:11 GMT+0800 (中国标准时间)
 PR["registerLangHandler"](PR["sourceDecorator"]({keywords:"bytes,default,double,enum,extend,extensions,false,"+"group,import,max,message,option,"+"optional,package,repeated,required,returns,rpc,service,"+"syntax,to,true",types:/^(bool|(double|s?fixed|[su]?int)(32|64)|float|string)\b/,cStyleComments:true}),["proto"]);
 //rebuild by neat 
